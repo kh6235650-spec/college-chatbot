@@ -47,7 +47,7 @@ GEMINI_KEY_FILE = "api_key.txt"
 CLAUDE_KEY_FILE = "anthropic_key.txt"
 
 # "gemini-flash-latest" اسم بديل بيشاور دايماً على أحدث flash، فمابيتشالش زي الأسماء القديمة
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-latest")
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
 CLAUDE_MODELS = {
     "Claude Sonnet 5.5 (متوازن)": "claude-sonnet-5-5",
     "Claude Haiku 5.5 (أسرع وأرخص)": "claude-haiku-5-5",
