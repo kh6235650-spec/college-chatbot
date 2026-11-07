@@ -43,7 +43,7 @@ except ImportError:
 # ----------------------------- الإعدادات -----------------------------
 KNOWLEDGE_FILE = "knowledge.md"
 DB_FILE = "chat_history.db"
-GEMINI_KEY_FILE = "api_key.txt"
+GEMINI_KEY_FILE = "AQ.Ab8RN6I-nzQHRp5zSVc2zef45FHEPZr9DxA9-OKdZQUJl0eugw"
 CLAUDE_KEY_FILE = "anthropic_key.txt"
 
 # "gemini-flash-latest" اسم بديل بيشاور دايماً على أحدث flash، فمابيتشالش زي الأسماء القديمة
